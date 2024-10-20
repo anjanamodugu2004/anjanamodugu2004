@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **an immersive VR experience utilizing EEG data for real-time gameplay adjustments on Oculus Meta Quest 2.**
 
-- 🌱 I’m currently learning **Unity 3D, Oculus development, C#, and exploring frameworks like LangChain and Haystack for LLM integration.**
+- 🌱 I’m currently learning **Unity 3D, Oculus development, C#, and exploring frameworks like LangChain for LLM integration.**
 
 - 👯 I’m looking to collaborate on **Innovative VR projects that incorporate real-time user data for enhanced interactivity.**
 
