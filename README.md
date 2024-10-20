@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Anjana Modugu</h1>
 <h3 align="center">ML Explorer Transitioning to Web3 Game Development with Blockchain.</h3>
 
-- 🔭 I’m currently working on **Creating an immersive game for Oculus Meta Quest 2, where players navigate a tightrope between high-rise buildings, using EEG headsets to adapt gameplay based on their stress levels.**
+- 🔭 I’m currently working on **an immersive VR experience utilizing EEG data for real-time gameplay adjustments on Oculus Meta Quest 2.**
 
 - 🌱 I’m currently learning **Unity 3D, Oculus development, C#, and exploring frameworks like LangChain and Haystack for LLM integration.**
 
