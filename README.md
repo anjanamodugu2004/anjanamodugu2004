@@ -1,7 +1,10 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/0dab5a40-a0e6-4ffe-a247-5c9293e54c51" alt="quant-pepega" width="400" height="400" style="margin-right: 20px;"/>
-  <img src="https://github.com/user-attachments/assets/d4b78fb4-e80b-407b-92d1-7bb1693a463e" alt="nerd-maths" width="400" height="400"/>
+
+  <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 0 auto;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmoxZ2FvOTdmNjUxOWRpeHJnMzNhbnV4cmQzZmJvems3anY5aWtjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IsBb6Wlf8Cf7ZCBVI8/giphy.gif" alt="gif1" style="width: 400px; height: 400px; object-fit: cover; margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/d4b78fb4-e80b-407b-92d1-7bb1693a463e" alt="nerd-maths" style="width: 400px; height: 400px; object-fit: cover; margin: 10px;"/>
 </div>
+
+
 
 <h1 align="center">Hi 👋, I'm Anjana Modugu</h1>
 <h3 align="center">ML Explorer Transitioning to Web3 Game Development with Blockchain.</h3>
@@ -20,7 +23,6 @@
 
 - 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:AP:8e02ad16-0b67-4163-b373-8522d7c40324](https://acrobat.adobe.com/id/urn:aaid:sc:AP:8e02ad16-0b67-4163-b373-8522d7c40324)
 
-- ⚡ Fun fact **When I'm not building virtual worlds, I’m diving into financial markets—turns out, predicting stock movements is like cracking the code in a game, but with way more math and fewer cheat codes!**
 
 
 With a strong interest towards **quantitative mathematics**, I’m fascinated by how data-driven approaches can unravel the complexities of financial markets. My interest in **machine learning** was ignited by the documentary on **AlphaGo**, where a machine surpassed a world champion, showcasing the immense potential of AI. Additionally, I am inspired by the analytical techniques used by figures like **Michael Burry**, who predicted the fall of the housing market by meticulously analyzing data to foresee economic downturns. I'm excited to delve into the intersection of these fields, where technology meets finance, opening doors to innovative solutions.
