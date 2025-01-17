@@ -25,7 +25,6 @@
 
 
 
-With a strong interest towards **quantitative mathematics**, I’m fascinated by how data-driven approaches can unravel the complexities of financial markets. My interest in **machine learning** was ignited by the documentary on **AlphaGo**, where a machine surpassed a world champion, showcasing the immense potential of AI. Additionally, I am inspired by the analytical techniques used by figures like **Michael Burry**, who predicted the fall of the housing market by meticulously analyzing data to foresee economic downturns. I'm excited to delve into the intersection of these fields, where technology meets finance, opening doors to innovative solutions.
 
 
 
