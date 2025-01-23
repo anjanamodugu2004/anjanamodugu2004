@@ -1,27 +1,29 @@
-
-  <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 0 auto;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmoxZ2FvOTdmNjUxOWRpeHJnMzNhbnV4cmQzZmJvems3anY5aWtjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IsBb6Wlf8Cf7ZCBVI8/giphy.gif" alt="gif1" style="width: 400px; height: 400px; object-fit: cover; margin: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/d4b78fb4-e80b-407b-92d1-7bb1693a463e" alt="nerd-maths" style="width: 400px; height: 400px; object-fit: cover; margin: 10px;"/>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmoxZ2FvOTdmNjUxOWRpeHJnMzNhbnV4cmQzZmJvems3anY5aWtjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IsBb6Wlf8Cf7ZCBVI8/giphy.gif" 
+       alt="VR Experience" 
+       style="width: 300px; height: 300px; object-fit: cover; border-radius: 10px;" />
 </div>
 
+<h1 align="center">Hi, I'm Anjana Modugu</h1>
+<h3 align="center">Exploring Machine Learning and VR Development</h3>
 
+<p>
+  I’m an Associate at Next Tech Lab, passionate about leveraging emerging technologies to create innovative solutions. My journey started with machine learning, and I’m now transitioning to developing immersive virtual reality experiences.
+</p>
 
-<h1 align="center">Hi 👋, I'm Anjana Modugu</h1>
-<h3 align="center">ML Explorer Transitioning to VR Development.</h3>
+### Current Work
+- Developing a VR experience that uses EEG data to adjust gameplay in real time on Oculus Meta Quest 2.
+- Learning Unity 3D, C#, and Oculus development while exploring frameworks like LangChain for LLM integration.
 
-- 🔭 I’m currently working on **an immersive VR experience utilizing EEG data for real-time gameplay adjustments on Oculus Meta Quest 2.**
+### Looking to Collaborate
+I’m interested in working on VR projects that incorporate real-time data for enhanced interactivity and adaptive gameplay.
 
-- 🌱 I’m currently learning **Unity 3D, Oculus development, C#, and exploring frameworks like LangChain for LLM integration.**
+### Explore My Work
+- All of my projects are available on [GitHub](https://github.com/anjanamodugu2004).
 
-- 👯 I’m looking to collaborate on **Innovative VR projects that incorporate real-time user data for enhanced interactivity.**
-
-- 🤝 I’m looking for help with **Developing AI algorithms for dynamic gameplay adjustment based on EEG data.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/anjanamodugu2004](https://github.com/anjanamodugu2004)
-
-- 📫 How to reach me **anjanamodugu@gmail.com**
-
-- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:AP:8e02ad16-0b67-4163-b373-8522d7c40324](https://acrobat.adobe.com/id/urn:aaid:sc:AP:8e02ad16-0b67-4163-b373-8522d7c40324)
+### Get in Touch
+- Reach me via email at **anjanamodugu@gmail.com**.
+- Learn more about my experiences from my [Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:8e02ad16-0b67-4163-b373-8522d7c40324).
 
 
 
