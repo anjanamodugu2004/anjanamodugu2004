@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anjana Modugu</h1>
-<h3 align="center">ML Explorer Transitioning to Web3 Game Development with Blockchain.</h3>
+<h3 align="center">ML Explorer Transitioning to VR Development.</h3>
 
 - 🔭 I’m currently working on **an immersive VR experience utilizing EEG data for real-time gameplay adjustments on Oculus Meta Quest 2.**
 
