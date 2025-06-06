@@ -1,8 +1,8 @@
 # Hey, I'm Anjana ✨  
 <p>
 🎓 A 3rd-year B.Tech CSE student at SRM AP<br> 
-💻  Interim Board Member of Next Tech Lab, where I explore cutting-edge ideas in tech<br>  
-🌐 Diving deep into Machine Learning and building immersive VR experiences<br>  
+💻  Interim Board Member of Next Tech Lab, where I mentor and create Gaming/Machine Learning projects <br>  
+🌐 Diving deep into Game Development, Machine Learning and building immersive VR experiences<br>  
 🧠 Working on a VR game that responds to EEG signals in real time using the Oculus Quest 3<br>  
 🌱 Learning Unity, C#, Oculus development and sharpening my ML skills along the way<br>
 </p>
